@@ -1,0 +1,1 @@
+# reverse-alternate-element-in-an-array
